@@ -1,0 +1,2 @@
+1、AGPL, GPL (前面的无商业保护), (LGPL, MPL, BSD,MIT,APACHE)
+https://blog.csdn.net/Kerrigeng/article/details/78579036
